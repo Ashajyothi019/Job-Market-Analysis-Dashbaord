@@ -8,11 +8,13 @@ Analyze salary by role and experience
 Identify in-demand skills
 Compare remote vs onsite jobs
 Build an interactive dashboard
+
 🛠️ Tools Used
 Excel
 XLOOKUP, INDEX-MATCH
 IF, AVERAGEIF, COUNTIF
 Pivot Tables & Charts
+
 📈 Key Insights
 AI/ML roles have highest salaries
 Salary increases with experience
